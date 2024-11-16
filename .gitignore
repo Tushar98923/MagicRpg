@@ -1,0 +1,11 @@
+# Ignore node_modules (if you use npm later)
+node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
